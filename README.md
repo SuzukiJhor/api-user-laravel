@@ -65,3 +65,6 @@ php artisan key:generate
 
 Acesse o projeto
 [http://localhost:8989](http://localhost:8989)
+
+Acesse a Documentação da Api: 
+http://localhost:8989/docs/api#/
