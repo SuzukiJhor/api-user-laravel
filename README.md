@@ -1,5 +1,7 @@
 
-# Setup Docker Laravel 10 com PHP 8.1
+# Setup Docker 
+
+- Laravel 10 com PHP 8.1
 
 ### Passo a passo
 Clone Repositório
