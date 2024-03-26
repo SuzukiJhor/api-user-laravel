@@ -1,5 +1,8 @@
 
-# Setup Docker 
+## API desenvolvida usando Laravel com MySql com Ambiente Docker.
+## Consiste em uma api para cadastro, alterar registro, deletar registro e listagem de usuarios.
+
+# 💻 Setup Docker 
 
 - Laravel 10 com PHP 8.1
 
@@ -9,7 +12,7 @@ Clone Repositório
 git clone https://github.com/SuzukiJhor/api-user-laravel.git
 ```
 ```sh
-cd app-laravel
+cd api-user-laravel
 ```
 
 
@@ -62,6 +65,11 @@ composer install
 Gere a key do projeto Laravel
 ```sh
 php artisan key:generate
+```
+
+Rode o comande de Migrate
+```sh
+php artisan migrate
 ```
 
 
